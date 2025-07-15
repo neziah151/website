@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+astrion.gg	TRUE	/	FALSE	1999999999	ips4_IPSSessionFront	eqm1ih9npgq84e8r110p847bpc
+astrion.gg	TRUE	/	FALSE	1999999999	ips4_noCache	1
+astrion.gg	TRUE	/	FALSE	1999999999	ips4_stream_view_all	expanded
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	9a410b5ee5dadaecda21bd6857b30983
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZOeXRjb3J5dWRhR3R1cXZRSjNEUGFLRmxkQmtDdHlvTEhQbGpheEgvWlBFTmFIVHJBK0hFZlQxNVdPQkZ5UUt5WlpwdVV0WDRycXpLc1FPcWdxLzh1WVUyeXVaR0xYdHhneTdLVGkzcm5IVT0mWlVDcTdFYU1QNTRLc0JqTjBHQW1kckZqTUtFPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	7fe83241-b404-4007-a36e-857601063d82"
+astrion.gg	TRUE	/	FALSE	1999999999	ips4_lastSearch	1745694747
+
